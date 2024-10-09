@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        arch: "'Archivo Black', san-serif",
+        agb: "'Agbalumo', system-ui",
         lobster: "'Lobster', cursive",
         nos: "'Nosifer', san-serif",
       },

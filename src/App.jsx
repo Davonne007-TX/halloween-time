@@ -4,7 +4,7 @@ import Grid from "./components/Grid";
 function App() {
   return (
     <>
-      <main className=" flex flex-col font-nos bg-gradient-to-r from-black to-orange-600 bg-cover min-h-screen">
+      <main className="flex flex-col font-agb font-bold bg-[url('/images/halloween-pattern.jpg')] bg-cover min-h-screen">
         <Header />
         <Grid />
       </main>
@@ -13,25 +13,3 @@ function App() {
 }
 
 export default App;
-
-/*
- - calender for what movies to watch for Halloween 
- - an array of objects 
- - map 
- - grid
- - for each box have a name of a movie 
- - make it pretty 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-*/

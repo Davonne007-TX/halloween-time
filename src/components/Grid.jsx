@@ -12,8 +12,10 @@ export default function Grid() {
           {[...Array(emptyStartDays)].map((_, i) => (
             <li
               key={`empty-${i}`}
-              className="list-none h-40 outline outline-1 outline-transparent"
-            ></li>
+              className="list-none h-40 mx-auto flex items-center text-7xl outline outline-1 outline-transparent"
+            >
+              💀
+            </li>
           ))}
 
           {halloweenMovies.map((hallowMovie) => (

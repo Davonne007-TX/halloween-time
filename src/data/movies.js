@@ -10,13 +10,13 @@ export const daysOfTheWeek = [
 
 export const halloweenMovies = [
   { date: 1, movie: "Scream" },
-  { date: 2, movie: "The Shinning" },
+  { date: 2, movie: "Final Destination" },
   { date: 3, movie: "Wrong Turn" },
   { date: 4, movie: "Silent Hill" },
   { date: 5, movie: "Paranormal Activity" },
   { date: 6, movie: "Friday the 13th" },
   { date: 7, movie: "The Blair Witch Project" },
-  { date: 8, movie: "Final Destination" },
+  { date: 8, movie: "Final Destination 3" },
   { date: 9, movie: "13 Ghosts" },
   { date: 10, movie: "Stay Alive" },
   { date: 11, movie: "Halloween" },
